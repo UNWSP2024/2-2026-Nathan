@@ -3,9 +3,9 @@ def personal_information():
     address = "3345 Oak Road, Jamestown, RI, 92489"
     phone_number = "133-746-8992"
     major = "Communications"
-    print(name)
-    print(address)
-    print(phone_number)
-    print(major)
+    print("Name:",name)
+    print("Address:",address)
+    print("Phone Number",phone_number)
+    print("Major:",major)
 #Line which calls the above function.
 personal_information()
