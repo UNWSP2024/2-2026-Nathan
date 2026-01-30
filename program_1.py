@@ -1,3 +1,8 @@
+# By Nathan Nelsen
+# Written 1/30/26
+# Personal Information
+
+
 def personal_information():
     name = "Cranjis McBasketball"
     address = "3345 Oak Road, Jamestown, RI, 92489"
