@@ -5,7 +5,7 @@ phone_number = "133-746-8992"
 major = "Communications"
   print(name)
   print(address)
-  print (phone_number)
+  print(phone_number)
   print(major)
 
 # Line which calls the above function.
