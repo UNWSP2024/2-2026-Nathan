@@ -9,7 +9,7 @@ def temp_conversion(celsius):
     # The formula is as follows: F = (9/5)C + 32
     # The program should ask the user to enter a temperature in Celsius, then display the temperature converted to Fahrenheit.
     # Calculate the Fahrenheit equivalent.
-    fahrenheit = (9 / 5) * celcius + 32
+    fahrenheit = (9 / 5) * celsius + 32
     ######################
     # WRITE YOUR CODE HERE
     ######################    
